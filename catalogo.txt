@@ -1,0 +1,2 @@
+# Catalogue for BibliotecaLector. One book per line:
+# Category|Title|Credit|first image in paginas/|sheet count|first sheet of each section, comma separated
