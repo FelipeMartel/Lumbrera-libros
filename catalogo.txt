@@ -1,3 +1,4 @@
 # Catalogue for BibliotecaLector. One book per line:
 # Category|Title|Credit|first image in paginas/|sheet count|first sheet of each section, comma separated
 Prayer|Dangerous Prayers|Craig Groeschel ,Youversion,  Bought,|0|69|
+Bible Study|Find it quick handy Bible encyclopedia|Ron Rhodes|69|194|
